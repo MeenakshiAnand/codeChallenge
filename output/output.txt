@@ -1,1 +1,2 @@
-Your output data will end up here
+Customer Rank: 1 Customer Id: customer3
+Customer Rank: 2 Customer Id: customer2
